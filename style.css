@@ -517,7 +517,7 @@ form textarea {
     border-radius: 8px;
     font-size: 15px;
     color: var(--text-color);
-    background: var(--text-color);
+    background: var(--main-color);
 }
 
 @media (max-width: 1480px) {
